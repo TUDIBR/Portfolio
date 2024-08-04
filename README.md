@@ -13,8 +13,7 @@ Olá! Eu sou TUDIBR, um desenvolvedor de 15 anos apaixonado por programação e 
 
 Aqui você encontrará uma coleção de projetos em que trabalhei. Cada projeto é uma demonstração das minhas habilidades e do meu compromisso com a qualidade e a inovação.
 
-- **[Sistema de Gerenciamento de Placas de Veículo](link-do-repositorio)**: Um sistema completo para gerenciar placas de veículos, incluindo funcionalidades para criar, consultar, adicionar multas e remover placas.
-- **[Outro Projeto](link-do-outro-projeto)**: Breve descrição do projeto.
+- **[Sistema de Gerenciamento de Placas de Veículo]([link-do-repositorio](https://github.com/TUDIBR/Portfolio/blob/main/placa%20de%20veiculo2.py))**: Um sistema completo para gerenciar placas de veículos, incluindo funcionalidades para criar, consultar, adicionar multas e remover placas.
 
 ## Contato
 
