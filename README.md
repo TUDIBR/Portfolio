@@ -19,8 +19,7 @@ Aqui você encontrará uma coleção de projetos em que trabalhei. Cada projeto 
 
 Se você estiver interessado em trabalhar comigo ou tiver alguma dúvida, sinta-se à vontade para entrar em contato:
 
-- **Email:** [seu-email@example.com](mailto:seu-email@example.com)
-- **LinkedIn:** [Seu Perfil LinkedIn](link-do-linkedin)
+- **Email:** [tudidev555@gmail.com](mailto:tudidev555@gmail.com)
 
 Obrigado por visitar meu portfólio!
 
