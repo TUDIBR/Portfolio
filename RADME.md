@@ -7,6 +7,7 @@ Olá! Eu sou Arthur, um desenvolvedor de 16 anos apaixonado por programação e 
 - **Idade:** 16 anos
 - **Objetivo:** Procuro oportunidades de trabalho freelance para aplicar e expandir minhas habilidades em programação.
 - **Linguagens de Programação:** Python.
+- **Tecnologias:** Selenium, Customtkinter, Postgre, Sqlite e Pandas
 - **Interesses:** Desenvolvimento de software, criação de bots, design de interfaces e resolução de problemas de codificação.
 
 ## Projetos
