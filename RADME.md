@@ -1,4 +1,4 @@
-# Meu portfólio
+# Sobre mim
 
 Olá! Eu sou Arthur, um desenvolvedor de 16 anos apaixonado por programação e tecnologia. Este é meu portfólio, onde você encontrará uma seleção dos meus projetos e trabalhos mais recentes.
 
