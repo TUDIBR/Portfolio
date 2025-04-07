@@ -1,12 +1,12 @@
-# Portfólio de TUDIBR
+# Meu portfólio
 
-Olá! Eu sou TUDIBR, um desenvolvedor de 16 anos apaixonado por programação e tecnologia. Este é meu portfólio, onde você encontrará uma seleção dos meus projetos e trabalhos mais recentes.
+Olá! Eu sou Arthur, um desenvolvedor de 16 anos apaixonado por programação e tecnologia. Este é meu portfólio, onde você encontrará uma seleção dos meus projetos e trabalhos mais recentes.
 
 ## Sobre Mim
 
 - **Idade:** 16 anos
 - **Objetivo:** Procuro oportunidades de trabalho freelance para aplicar e expandir minhas habilidades em programação.
-- **Linguagens de Programação:** Python, JavaScript, e outras conforme necessário.
+- **Linguagens de Programação:** Python.
 - **Interesses:** Desenvolvimento de software, criação de bots, design de interfaces e resolução de problemas de codificação.
 
 ## Projetos
@@ -19,8 +19,8 @@ Aqui você encontrará uma coleção de projetos em que trabalhei. Cada projeto 
 
 Se você estiver interessado em trabalhar comigo ou tiver alguma dúvida, sinta-se à vontade para entrar em contato:
 
-- **Email:** [tudidev555@gmail.com](mailto:tudidev555@gmail.com)
-
+- **E-mail:** [arthur60145@outlook.com](mailto:arthur60145@outlook.com)
+- **Discord:** tudibryt
 Obrigado por visitar meu portfólio!
 
 ---
