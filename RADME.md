@@ -25,6 +25,7 @@ Se você estiver interessado em trabalhar comigo ou tiver alguma dúvida, sinta-
 
 - **E-mail:** [arthur60145@outlook.com](mailto:arthur60145@outlook.com)
 - **Discord:** tudibryt
+
 Obrigado por visitar meu portfólio!
 
 ---
