@@ -17,6 +17,8 @@ Aqui você encontrará uma coleção de projetos em que trabalhei. Cada projeto 
 
 - **[Editor de texto com interface gráfica]([link-do-repositorio](https://github.com/TUDIBR/Portfolio/blob/main/editor%20de%20texto.py))**:  Um editor de texto minimalista e funcional, com suporte a abas, leitura e salvamento de arquivos .txt. Ideal para anotações rápidas e organização de conteúdos em múltiplas abas.
 
+- **[Gerenciador de clientes]([link-do-repositorio](https://github.com/TUDIBR/Portfolio/blob/main/registro_de_clientes.py))**: Um programa simples e minimalista que permite cadastrar, visualizar e gerenciar informações de clientes.
+
 ## Contato
 
 Se você estiver interessado em trabalhar comigo ou tiver alguma dúvida, sinta-se à vontade para entrar em contato:
