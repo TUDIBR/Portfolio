@@ -15,7 +15,7 @@ Aqui você encontrará uma coleção de projetos em que trabalhei. Cada projeto 
 
 - **[Sistema de Gerenciamento de Placas de Veículo]([link-do-repositorio](https://github.com/TUDIBR/Portfolio/blob/main/placa%20de%20veiculo2.py))**: Um sistema completo para gerenciar placas de veículos, incluindo funcionalidades para criar, consultar, adicionar multas e remover placas.
 
-- **[Editor de texto com interface gráfica]([link-do-repositorio](https://github.com/TUDIBR/Portfolio/blob/main/editor%20de%20texto.py))
+- **[Editor de texto com interface gráfica]([link-do-repositorio](https://github.com/TUDIBR/Portfolio/blob/main/editor%20de%20texto.py))**:  Um editor de texto minimalista e funcional, com suporte a abas, leitura e salvamento de arquivos .txt. Ideal para anotações rápidas e organização de conteúdos em múltiplas abas.
 
 ## Contato
 
