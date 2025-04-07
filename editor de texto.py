@@ -8,7 +8,7 @@ app = CTk()
 
 # Funções
 class functions():
-    # Abre o arquivo tfrom CTkMessagebox import CTkMessagebox
+    # Abre o arquivo
     def abrir_arquivo(self):
         try:
             self.arquivo = filedialog.askopenfile(title='Selecione um arquivo de texto', filetypes=[('Arquivo de texto', '*.txt')])
