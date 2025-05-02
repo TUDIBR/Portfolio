@@ -14,11 +14,11 @@ Olá! Eu sou Arthur, um desenvolvedor de 16 anos apaixonado por programação e 
 
 Aqui você encontrará uma coleção de projetos em que trabalhei. Cada projeto é uma demonstração das minhas habilidades e do meu compromisso com a qualidade e a inovação.
 
-- **[Sistema de Gerenciamento de Placas de Veículo]([link-do-repositorio](https://github.com/TUDIBR/Portfolio/blob/main/placa%20de%20veiculo2.py))**: Um sistema completo para gerenciar placas de veículos, incluindo funcionalidades para criar, consultar, adicionar multas e remover placas.
+- **[Sistema de Gerenciamento de Placas de Veículo](https://github.com/TUDIBR/Portfolio/blob/main/placa%20de%20veiculo2.py)**: Um sistema completo para gerenciar placas de veículos, incluindo funcionalidades para criar, consultar, adicionar multas e remover placas.
 
-- **[Editor de texto com interface gráfica]([link-do-repositorio](https://github.com/TUDIBR/Portfolio/blob/main/editor%20de%20texto.py))**:  Um editor de texto minimalista e funcional, com suporte a abas, leitura e salvamento de arquivos .txt. Ideal para anotações rápidas e organização de conteúdos em múltiplas abas.
+- **[Editor de texto com interface gráfica](https://github.com/TUDIBR/Portfolio/blob/main/editor%20de%20texto.py)**:  Um editor de texto minimalista e funcional, com suporte a abas, leitura e salvamento de arquivos .txt. Ideal para anotações rápidas e organização de conteúdos em múltiplas abas.
 
-- **[Gerenciador de clientes]([link-do-repositorio](https://github.com/TUDIBR/Portfolio/blob/main/registro_de_clientes.py))**: Um programa simples e minimalista que permite cadastrar, visualizar e gerenciar informações de clientes.
+- **[Gerenciador de clientes](https://github.com/TUDIBR/Portfolio/blob/main/registro_de_clientes.py)**: Um programa simples e minimalista que permite cadastrar, visualizar e gerenciar informações de clientes.
 
 ## Contato
 
